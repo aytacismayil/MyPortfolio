@@ -4,9 +4,7 @@
     return;
   }
 
-  ////////////
-  // Plugin //
-  ////////////
+
 
   $.fn.headroom = function(option) {
     return this.each(function() {
